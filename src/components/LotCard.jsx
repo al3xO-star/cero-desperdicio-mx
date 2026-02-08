@@ -8,7 +8,7 @@ export default function LotCard({ lot, onOpen }) {
     }}>
       <div style={{ display: "flex", justifyContent: "space-between", gap: 12 }}>
         <div>
-          <div style={{ fontSize: 12, opacity: 0.7 }}>
+          <div style={{ fontSize: 13, color: "#374151" }}>
             {lot.ownerType} · {lot.ownerName}
           </div>
           <div style={{ fontSize: 18, fontWeight: 700, marginTop: 6 }}>
