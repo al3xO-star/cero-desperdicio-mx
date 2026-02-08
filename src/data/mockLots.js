@@ -4,6 +4,7 @@ export const mockLots = [
     ownerType: "Restaurante",
     ownerName: "Taquería La Esquina",
     title: "Tortillas y guisos del día (rescate)",
+image: "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=1200&q=60",
     mode: "Donación",
     category: "Preparados",
     portions: 25,
@@ -17,6 +18,7 @@ export const mockLots = [
     ownerType: "Supermercado",
     ownerName: "Súper Ahorro",
     title: "Fruta madura (plátano y manzana)",
+image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=60",
     mode: "Venta con descuento",
     category: "Frutas",
     portions: 40,
@@ -30,6 +32,7 @@ export const mockLots = [
     ownerType: "Productor",
     ownerName: "Huerto San Miguel",
     title: "Verdura de temporada (mixta)",
+image: "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=1200&q=60",
     mode: "Donación",
     category: "Verduras",
     portions: 60,
@@ -39,3 +42,4 @@ export const mockLots = [
     notes: "Entrega en cajas. Requiere camioneta.",
   },
 ];
+
